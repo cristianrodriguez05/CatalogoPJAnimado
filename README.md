@@ -6,4 +6,4 @@ Integrantes:
 
 . John Sebastián Martínez Zabala - 2017102005
 
-(diagramas/Diagrama general.png)
+![catalogo](diagramas/Diagrama general.png)
