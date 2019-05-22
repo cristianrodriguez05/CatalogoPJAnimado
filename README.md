@@ -12,7 +12,7 @@ Integrantes:
 
 *"Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice"* [Christopher Alexander].
 
-## Introducción
+## Catalogo de personajes
 
 El diseño de software orientado a objetos es, en cierta forma, difícil, si a esta tarea sumamos que el software diseñado debe tener ciertas características deseables como la reusabilidad, flexibilidad y portabilidad entre otras, la tarea es aun más difícil.
 
@@ -20,7 +20,7 @@ Algo que conocen muy bien los diseñadores con cierta experiencia, es que no se 
 
 Si estas soluciones les sirven de manera  recurrente y  estas les brindan las características deseables en el software mencionadas arriba, probablemente se encuentran ante un patrón de diseño.
 
-## ¿Qué son los patrones de diseño?
+## Builder
 Los patrones de diseño son la base para la búsqueda de soluciones a problemas comunes en el desarrollo de software y otros ámbitos referentes al diseño de interacción o interfaces.
 
     Un patrón de diseño es una solución a un problema de diseño.
@@ -38,3 +38,5 @@ En esencia un patrón tiene los siguientes 4 elementos:
 - **El problema:** describe cuando aplicar el patrón, explica el problema y su contexto.
 - **La solución:** describe los elementos del diseño, sus relaciones, responsabilidades y colaboraciones. No describe la implementación o un diseño particular específicamente ya que se adapta mas a una plantilla (template) que puede ser aplicada a varias situaciones.
 - **Las consecuencias:** son los resultados de aplicar el patrón, los pros y contras de su aplicación. Las consecuencias de la aplicación de un patrón debe incluir el impacto en la flexibilidad, extensibilidad y/o portabilidad del sistema.
+
+## Adapter
