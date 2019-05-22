@@ -6,4 +6,4 @@ Integrantes:
 
 . John Sebastián Martínez Zabala - 2017102005
 
-![catalogo](diagramas/'Diagrama general.png')
+![catalogo](https://github.com/cristianrodriguez05/CatalogoPJAnimado/blob/master/diagramas/Diagrama%20general.png)
