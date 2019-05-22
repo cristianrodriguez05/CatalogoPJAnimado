@@ -8,17 +8,14 @@ Integrantes:
 
 ![catalogo](https://github.com/cristianrodriguez05/CatalogoPJAnimado/blob/master/diagramas/Diagrama%20general.png)
 
-## Un primer acercamiento - generalidades
 
-*"Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice"* [Christopher Alexander].
 
 ## Catalogo de personajes
 
-El diseño de software orientado a objetos es, en cierta forma, difícil, si a esta tarea sumamos que el software diseñado debe tener ciertas características deseables como la reusabilidad, flexibilidad y portabilidad entre otras, la tarea es aun más difícil.
-
-Algo que conocen muy bien los diseñadores con cierta experiencia, es que no se puede afrontar cada problema desde cero, por lo general reutilizan soluciones que han trabajado en el pasado y que han representado buenas soluciones a los problemas planteados.
-
-Si estas soluciones les sirven de manera  recurrente y  estas les brindan las características deseables en el software mencionadas arriba, probablemente se encuentran ante un patrón de diseño.
+El catalogo de personajes es un programa hecho en JAVA. El objetivo del programa es el de permitir mostrar cuatro personajes lo cuales pertenecen a las clases: Arquero, guerrero, mago y ladrón; a cada clase se le asocia tres opciones de arma primaria, tres de arma secundaria, 3 tipos de armadura y una única montura.
+para realizar el programa se implementó el patrón abstract Factory; témenos una clase FabricaAbstractaPJ (dentro del paquete fabricaAbstr) que es la fabrica la cual contiene métodos de las clases abstractas contenidas dentro del paquete de clasesPorducto. 
+El paquete clases concretas contiene las clases todos los elementos que se van a mostrar o   animar. 
+Dentro del paquete fabricaAbstr también están contenidas las clases que son las fábricas de los personajes las cuales contendrán los elementos que corresponden a cada una. 
 
 ## Builder
 Los patrones de diseño son la base para la búsqueda de soluciones a problemas comunes en el desarrollo de software y otros ámbitos referentes al diseño de interacción o interfaces.
