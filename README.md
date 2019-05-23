@@ -21,3 +21,5 @@ Al ejecutar el programa se podran seleccionar una de las clases de los Pj y se v
 ![builder](https://github.com/cristianrodriguez05/CatalogoPJAnimado/blob/master/diagramas/builder.png)
 
 ## Adapter
+
+![adapter](https://github.com/cristianrodriguez05/CatalogoPJAnimado/blob/master/diagramas/builder.png)
