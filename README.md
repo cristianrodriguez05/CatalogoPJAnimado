@@ -21,6 +21,7 @@ Al ejecutar el programa se podran seleccionar una de las clases de los Pj y se v
 ![builder](https://github.com/cristianrodriguez05/CatalogoPJAnimado/blob/master/diagramas/builder.png)
 
 El buider lo qie hace en el programa es mostrar el personaje con el arma primaria, el arma secundaria, la armadura y la mostura seleccionada. 
+()
 el director de esos elementos seleccionados los envia al costructor de cada personaje y en la interfaz gráfica
 
 ## Adapter
