@@ -24,7 +24,6 @@ El buider lo qie hace en el programa es mostrar el personaje con el arma primari
 
 el director de esos elementos seleccionados los envia al costructor de cada personaje y finalmente y en la interfaz gráfica se muestra el personaje con el equipo seleccionado.
 
-yedc
 
 ![adapter](https://github.com/cristianrodriguez05/CatalogoPJAnimado/blob/master/diagramas/adapter.png)
-Paa la implementación del adapter se uso la fabrica ogro del del proyecto seleecionado. el personaje solo tiene un arma primaria y un arma secundaria, se crea
+Paa la implementación del adapter se uso la fabrica ogro del del proyecto seleecionado. el personaje solo tiene un arma primaria y un arma secundaria, se crea el adaptador para que la clase orco sea compatible con el constructor y así al mento de usar la cse persinaje permita mostrar lo que viene con el personaje
