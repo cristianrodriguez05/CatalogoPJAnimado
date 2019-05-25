@@ -23,6 +23,7 @@ Al ejecutar el programa se podran seleccionar una de las clases de los Pj y se v
 El buider lo qUe hace en el programa es mostrar el personaje con el arma primaria, el arma secundaria, la armadura y la mostura seleccionada. 
 
 el director de esos elementos seleccionados los envia al costructor de cada personaje y finalmente y en la interfaz gráfica se muestra el personaje con el equipo seleccionado.
+Para la implementación del builder la fabrica abstrata deja de ser relevante porque el mismo constructor puede dar el personaje con el equipo que se desea y si se hbuera dejado la fabrica se realizaria un proceso que no es necesaio, por esta razón la fabrica abstacta se utilizará para la animaciones y el decorator. 
 
 ## Adapter
 
