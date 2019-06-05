@@ -4,7 +4,7 @@ Integrantes:
 
 . Cristian David Rodríguez López - 20171020072 
 
-. John Sebastián Martínez Zabala - 2017102005
+. John Sebastián Martínez Zabala - 20171020059
 
 ## Catalogo de personajes
 
